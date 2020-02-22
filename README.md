@@ -3,7 +3,7 @@ Notes for USTC course 'Convex Optimization' by 凌青
 
 ## Video of course
 
-bilibili.com/video/av40868517?p=1
+https://www.bilibili.com/video/av40868517?p=1
 
 
 
