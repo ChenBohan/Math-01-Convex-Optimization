@@ -16,11 +16,16 @@ https://www.bilibili.com/video/av40868517?p=1
 - 仿射/凸/凸锥 集
   - 仿射集：通过集合C中任意两个不同点的**直线**仍然在集合C内，则称集合C为仿射集（二维）。
   - 凸集：集合C内任意两点间的**线段**均在集合C内，则称集合C为凸集（二维）。
-  - [理解仿射集与凸集（数学解释和代码可视化)](https://zhuanlan.zhihu.com/p/26102482)
   
 - 仿射/凸/凸锥 组合
 
 - 仿射/凸/凸锥 包
+
+- Reference
+  - 定义：[【凸优化笔记1】-仿射集、凸集和锥](https://zhuanlan.zhihu.com/p/101948518)
+  - [理解仿射集与凸集（数学解释和代码可视化)](https://zhuanlan.zhihu.com/p/26102482)
+
+<img src="/readme_img/convex_set.png" width = "50%" height = "50%" div align=center />
 
 
 
